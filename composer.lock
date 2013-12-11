@@ -1,0 +1,52 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
+    ],
+    "hash": "901ebbc93d1893b392ab6fef98a428ae",
+    "packages": [
+        {
+            "name": "mynetx/codebird-php",
+            "version": "2.3.6",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/mynetx/codebird-php.git",
+                "reference": "2.3.6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/mynetx/codebird-php/zipball/2.3.6",
+                "reference": "2.3.6",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "classmap": [
+                    "src/"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0"
+            ],
+            "description": "A Twitter library in PHP.",
+            "time": "2013-05-12 12:54:15"
+        }
+    ],
+    "packages-dev": [
+
+    ],
+    "aliases": [
+
+    ],
+    "minimum-stability": "stable",
+    "stability-flags": [
+
+    ],
+    "platform": [
+
+    ],
+    "platform-dev": [
+
+    ]
+}

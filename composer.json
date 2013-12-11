@@ -1,0 +1,5 @@
+{
+    "require": {
+        "mynetx/codebird-php": "2.3.*"
+    }
+}

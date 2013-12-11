@@ -1,0 +1,31 @@
+[
+    {
+        "name": "mynetx/codebird-php",
+        "version": "2.3.6",
+        "version_normalized": "2.3.6.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/mynetx/codebird-php.git",
+            "reference": "2.3.6"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/mynetx/codebird-php/zipball/2.3.6",
+            "reference": "2.3.6",
+            "shasum": ""
+        },
+        "time": "2013-05-12 12:54:15",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "classmap": [
+                "src/"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GPL-3.0"
+        ],
+        "description": "A Twitter library in PHP."
+    }
+]
